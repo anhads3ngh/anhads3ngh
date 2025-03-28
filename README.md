@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Im Anhad Singh.  
+Hi, Im Anhad Singh.   
 
 
 ## 🌐 Socials:
