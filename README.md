@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, Im Anhad Singh.         
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anhad-singh-sarna-578a11255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anhadsinghsarna7@gmail.com) 
